@@ -147,7 +147,7 @@ print(f'Prediction: {prediction}')
 
 ### New Sample Data Prediction
 
-![Uploading image.png…]()
+<img width="950" height="126" alt="image" src="https://github.com/user-attachments/assets/d73d2f37-2e9b-43e7-9083-44606c610d03" />
 
 ## RESULT
 
