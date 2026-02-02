@@ -9,6 +9,9 @@ Explain the problem statement
 ## Neural Network Model
 Include the neural network model diagram.
 
+<img width="1116" height="760" alt="image" src="https://github.com/user-attachments/assets/80303916-8def-46a8-947e-ffba82497b7b" />
+
+
 ## DESIGN STEPS
 ### STEP 1: 
 
@@ -67,6 +70,8 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 
 ### Dataset Information
 Include screenshot of the generated data
+<img width="270" height="438" alt="image" src="https://github.com/user-attachments/assets/f3f661bc-5928-41a8-bcb5-703838a0e5aa" />
+
 
 ### OUTPUT
 
