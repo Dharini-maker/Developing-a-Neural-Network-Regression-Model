@@ -4,7 +4,8 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-Explain the problem statement
+
+Neural network regression is a supervised learning technique used to predict continuous output values based on given input data. In this approach, a dataset containing one numeric input and one numeric output is used to train the neural network. The network learns the underlying relationship between input and output by adjusting its weights through repeated iterations to minimize the training loss. The training loss versus iteration graph provides insight into the learning behavior of the model and helps in analyzing its convergence and performance during training.
 
 ## Neural Network Model
 Include the neural network model diagram.
